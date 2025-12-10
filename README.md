@@ -1,4 +1,4 @@
-This repository contains my controbutions to the models of the Kawasaki Ninja ZX-9R frame that were made as part of the ReVOLT EV undergraduate technical team at the University of Calgary. Some of the files are marked incomplete as they were completed by other members of my team. The files in this repository are solely my contribution.
+This repository contains my contributions to the models of the Kawasaki Ninja ZX-9R frame that were made as part of the ReVOLT EV undergraduate technical team at the University of Calgary. Some of the files are marked incomplete as they were completed by other members of my team.
 
 
 
