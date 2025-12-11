@@ -1,4 +1,4 @@
-This repository contains my contributions to the models of the Kawasaki Ninja ZX-9R frame that were made as part of the ReVOLT EV undergraduate technical team at the University of Calgary. Some of the files are marked incomplete as they were completed by other members of my team.
+This repository contains my contributions to the 3D CAD models of the Kawasaki Ninja ZX-9R frame that were made as part of the ReVOLT EV undergraduate technical team at the University of Calgary. Some of the files are marked incomplete as they were completed by other members of my team.
 
 The files in the repository are in STEP AP214 and OBJ formats. The OBJ files contain MTL files that have the corresponding colour for the object. I don not plan on uploading the SLDPRT files. As a quick note, the repository might be a little messy since I don't usually code.
 
